@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<restaurant>
+
+<food>
+    <name>chocolate goat cheese semifreddo</name>
+    <price>$19.95</price>
+    <description>Chocolate semifreddo with goat cheese</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/2790304/thumb_275.jpg?1354065809</image>
+</food>
+
+<food>
+	<name> pheasant </name>
+    <price>$17.95</price>
+    <description>1 pheasant will serve 2 normal eaters, or 1 hearty eater.</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/2546604/thumb_275.jpg?1349837364</image>
+</food>
+
+<food>
+	<name>Venison</name>
+    <price>$16.95</price>
+    <description>Better than beef and better for you too! Our traditional family Christmas Eve dinner menu is always venison steak and shrimp scampi!</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/2546593/thumb_275.jpg?1349837252</image>
+</food>
+
+<food>
+	<name> Yellow Fin Tuna</name>
+    <price>$18.75</price>
+    <description>Get this all-star, easy-to-follow Grilled Yellow Fin Tuna with Grilled Pineapple Salsa recipe from The Essence of Emeril.</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/2546056/thumb_275.jpg?1349828622</image>
+</food>
+
+<food>
+	<name>Eclipse</name>
+    <price>$19.95</price>
+    <description>Instantised Whole Milk Powder which makes mixing up some blue top as easy as possible. Ideal for those who are not able to duck to the dairy.</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/4588213/thumb_275.jpg?1396207207</image>
+</food>
+
+<food>
+	<name> Roasted Winter Vegetables With Polenta</name>
+    <price>$23.95</price>
+    <description>Special Order</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/1357823/thumb_275.jpg?1329705982</image>
+</food>
+
+<food>
+	<name> Ricotta Tartlet </name>
+    <price>$17.95</price>
+    <description>Get this all-star, easy-to-follow Berry Ricotta Tartlets recipe from Giada De Laurentiis.</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/613689/thumb_275.jpg?1307287723
+</image>
+</food>
+
+<food>
+	<name> Line Caught Cod</name>
+    <price>$16.75</price>
+    <description>Greate hot drink</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/613684/thumb_275.jpg?1307287582</image>
+</food>
+
+<food>
+	<name>Amouse Bouche Yukon Potato Applewood Smoked Bacon Soup</name>
+    <price>$17.25</price>
+    <description>Shrimp Mousse with Yukon Potato Tuille and Blackberry-bacon vinaigrette. </description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/613664/thumb_275.jpg?1307286951</image>
+</food>
+
+<food>
+	<name> Mini Olive Rosemary Baguette  </name>
+    <price>$18.75</price>
+    <description>They come in a resealable pouch, but they rarely last long enough to need it.</description>
+    <image>http://s3.amazonaws.com/foodspotting-ec2/reviews/613657/thumb_275.jpg?1307286702</image>
+</food>
+
+</restaurant>
